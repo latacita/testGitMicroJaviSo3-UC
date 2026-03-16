@@ -29,3 +29,9 @@
  (21)   Guardar cambios en "calificacion.txt"
  (22)   Checkout RamaC
  (23)   Commit "Cambios en direccion.txt y calificacion.txt" 
+ (24)   Checkout master
+ (25)   De haberse hecho ahora la fusión de RamaC en master creo que hubiera sido recursiva por culpa de la modificación de direccion.txt en el paso 18
+ (26)   Fusión fast-forward de ramaD en master
+ (27)   Fusión recursiva "ort" de RamaC en master
+ (28)   Tag master como Conseguido
+ (29)   Commit "Práctica conseguida"
