@@ -9,3 +9,8 @@
  (01)   Repositorio clonado
  (02)   Editado "bitacora.txt"
  (03)   Commit repositorio
+ (04)   Branch RamaA
+ (05)   Branch RamaB
+ (06)   Checkout RamaA
+ (07)   Creado y editado "direccion.txt"
+ (08)   Commit "Direccion Fac. Ciencias"
