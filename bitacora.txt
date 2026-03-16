@@ -9,3 +9,6 @@
  (01)   Repositorio clonado
  (02)   Editado "bitacora.txt"
  (03)   Commit repositorio
+ (09)   Checkout RamaB
+ (10)   Editado "direccion.txt"
+ (11)   Commit "Corregido error provincia"
