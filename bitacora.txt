@@ -21,3 +21,11 @@
  (13)   Fusión fast-forward de RamaA en master
  (14)   Fusión recursiva de RamaB en master     NOTA: Ocurrieron conflictos resueltos en el editor en "bitacora.txt" y "direccion.txt"
  (15)   Commit "Fusion de Ramas A y B"
+ (16)   Branch RamaC
+ (17)   Checkout RamaC
+ (18)   Editado "direccion.txt"
+ (19)   Branch RamaD y push -u origin RamaD. Checkout RamaD
+ (20)   Editar "calificacion.txt"
+ (21)   Guardar cambios en "calificacion.txt"
+ (22)   Checkout RamaC
+ (23)   Commit "Cambios en direccion.txt y calificacion.txt" 
