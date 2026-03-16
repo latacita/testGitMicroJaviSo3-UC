@@ -14,3 +14,10 @@
  (06)   Checkout RamaA
  (07)   Creado y editado "direccion.txt"
  (08)   Commit "Direccion Fac. Ciencias"
+ (09)   Checkout RamaB
+ (10)   Editado "direccion.txt"
+ (11)   Commit "Corregido error provincia"
+ (12)   Checkout master
+ (13)   Fusión fast-forward de RamaA en master
+ (14)   Fusión recursiva de RamaB en master     NOTA: Ocurrieron conflictos resueltos en el editor en "bitacora.txt" y "direccion.txt"
+ (15)   Commit "Fusion de Ramas A y B"
